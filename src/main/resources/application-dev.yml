@@ -1,0 +1,9 @@
+server:
+  port: 8082
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://bealuckydev:Und8gmvN1PPxhTcS@cluster0.zu4xk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: everythingdb
+      auto-index-creation: true
